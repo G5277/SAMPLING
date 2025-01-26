@@ -60,12 +60,12 @@ The dataset used in this project is a **credit card transaction dataset** availa
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/G5277/SAMPLING.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd yourproject
+cd SAMPLING
 ```
 
 3. Run the main.py script to perform the sampling techniques and model training:
